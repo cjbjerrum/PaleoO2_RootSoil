@@ -14,3 +14,4 @@ Where the solid and dashed calculated O2 curves intersect is the maximum root de
 
 As final diagram displays the maximum root depth that is permissible for optimal growth as function of atmospheric oxygen.
 
+Please cite model as: Christian J. Bjerrum, 2021. cjbjerrum/PaleoO2_RootSoil: First stable release of PalO2_RootSoil, doi: 10.5281/zenodo.4495296.
